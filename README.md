@@ -1,4 +1,4 @@
-# Gradex — On-Chain Social Trading on Casper Network
+# Gradex; On-Chain Social Trading on Casper Network
 
 **AI-powered copy trading protocol. Subscribe to top Casper traders. Smart contracts automatically mirror their trades. Traders earn x402 royalties when you profit.**
 
